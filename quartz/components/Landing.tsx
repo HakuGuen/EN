@@ -4,7 +4,7 @@ import landingStyle from "./styles/Landing.scss"
 export const TOTAL_CARDS = 8
 export const CARDS = {
   basics: (
-    <a href={"/basics"}>
+    <a href={"/Spatial-Design"}>
       <div class="card card-1">
         <p class="card-title">The Basics</p>
         <p class="card-subhead">Issue 001</p>
@@ -55,7 +55,7 @@ export default (() => {
     return (
       <div>
         <div class="content-container">
-          <p class="landing-header">Welcome to Socratica</p>
+          <p class="landing-header">Welcome to Design-O-Sphere</p>
           <p class="page-subhead">
             This is a guide •{" "}
             <a href="https://www.socratica.info/" target="_blank">

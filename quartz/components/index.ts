@@ -47,5 +47,5 @@ export {
   Breadcrumbs,
   LanguageToggle,
   Landing,
-  ThreeJS
+  ThreeJS,
 }

@@ -58,7 +58,7 @@ export default (() => {
           <p class="landing-header">Welcome to Design-O-Sphere</p>
           <p class="page-subhead">
             This is a guide •{" "}
-            <a href="https://www.socratica.info/" target="_blank">
+            <a href={"/Intro"} target="_blank">
               Back to main site
             </a>{" "}
             •{" "}

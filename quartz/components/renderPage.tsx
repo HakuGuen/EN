@@ -216,16 +216,7 @@ export function renderPage(
     <html lang={lang}>
       <Head {...componentData} />
       <body data-slug={slug}>
-            {/* {LeftComponent}
-            <div class="center">
-              <div class="page-header">
-                <Header {...componentData}>
-                  {header.map((HeaderComponent) => (
-                    <HeaderComponent {...componentData} />
-                  ))}              
-                </Header>
-                </div>
-             </div> */}
+
             {slug === "index" &&       
       <div class="marquee">
           <p>
@@ -239,10 +230,10 @@ export function renderPage(
         </div>}
         
           <div class="search">
-          <div class="darkmode">    
+          <div class="darkmode-landing">    
       {slug === "index" && <SearchComponent {...componentData} />}
       {slug === "index" && <DarkmodeComponent {...componentData} />}
-      {/* {slug === "index" && <LanguageComponent {...componentData} />} */}
+      {slug === "index" && <LanguageComponent {...componentData} />}
           </div>
           </div>
       {slug === "index" && <LandingComponent {...componentData} />}

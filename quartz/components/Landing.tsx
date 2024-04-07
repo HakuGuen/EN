@@ -9,7 +9,7 @@ export const CARDS = {
       <div class="card card-1">
         <p class="card-title">Architecture</p>
         <p class="card-subhead">101</p>
-        <img src="./static/1-ball.png" class="card-illustration-1" />
+        <img src="/EN/static/1-ball.png" class="card-illustration-1" />
       </div>
     </a>
   ),
@@ -18,7 +18,7 @@ export const CARDS = {
       <div class="card card-2">
         <p class="card-title">Landscape Design</p>
         <p class="card-subhead">101</p>
-        <img src="./static/2-ball.png" class="card-illustration-2" />
+        <img src="/EN/static/2-ball.png" class="card-illustration-2" />
       </div>
     </a>
   ),
@@ -27,7 +27,7 @@ export const CARDS = {
       <div class="card card-3">
         <p class="card-title">Interior Design</p>
         <p class="card-subhead">101</p>
-        <img src="./static/3-ball.png" class="card-illustration-3" />
+        <img src="/EN/static/3-ball.png" class="card-illustration-3" />
       </div>
     </a>
   ),
@@ -36,7 +36,7 @@ export const CARDS = {
       <div class="card card-4">
         <p class="card-title">Spatial Design</p>
         <p class="card-subhead">101</p>
-        <img src="./static/4-ball.png" class="card-illustration-4" />
+        <img src="/EN/static/4-ball.png" class="card-illustration-4" />
       </div>
     </a>
   ),
@@ -45,7 +45,7 @@ export const CARDS = {
       <div class="card card-5">
         <p class="card-title">Urban Design</p>
         <p class="card-subhead">101</p>
-        <img src="./static/5-ball.png" class="card-illustration-5" />
+        <img src="/EN/static/5-ball.png" class="card-illustration-5" />
       </div>
     </a>
   ),
@@ -55,7 +55,7 @@ export const CARDS = {
     <div class="card card-6">
       <p class="card-title">Industrial Design</p>
       <p class="card-subhead">101</p>
-      <img src="./static/6-ball.png" class="card-illustration-6" />
+      <img src="/EN/static/6-ball.png" class="card-illustration-6" />
     </div>
   </a>
 ),
@@ -65,7 +65,7 @@ export const CARDS = {
     <div class="card card-7">
       <p class="card-title">Lighting Design</p>
       <p class="card-subhead">101</p>
-      <img src="./static/7-ball.png" class="card-illustration-7" />
+      <img src="/EN/static/7-ball.png" class="card-illustration-7" />
     </div>
   </a>
 ),
@@ -75,7 +75,7 @@ export const CARDS = {
     <div class="card card-8">
       <p class="card-title">Materials in Design</p>
       <p class="card-subhead">101</p>
-      <img src="./static/8-ball.png" class="card-illustration-8" />
+      <img src="/EN/static/8-ball.png" class="card-illustration-8" />
     </div>
   </a>
 ),

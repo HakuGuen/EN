@@ -8,7 +8,7 @@ export const CARDS = {
     <a href={"/EN/Intro"}>
       <div class="card card-1">
         <p class="card-title">Archietcture</p>
-        <p class="card-subhead"> Global Design </p>
+        <p class="card-subhead">101</p>
         <img src="/EN/static/1-ball.png" class="card-illustration-1" />
       </div>
     </a>
@@ -17,7 +17,7 @@ export const CARDS = {
     <a href={"/EN/Landscape-Design"}>
       <div class="card card-2">
         <p class="card-title">Landscape Design</p>
-        <p class="card-subhead">Thiết Kế Cảnh Quan</p>
+        <p class="card-subhead">101</p>
         <img src="/EN/static/2-ball.png" class="card-illustration-2" />
       </div>
     </a>
@@ -26,7 +26,7 @@ export const CARDS = {
     <a href={"/EN/Interior-Design"}>
       <div class="card card-3">
         <p class="card-title">Interior Design</p>
-        <p class="card-subhead">Thiết Kế Nội Thất</p>
+        <p class="card-subhead">101</p>
         <img src="/EN/static/3-ball.png" class="card-illustration-3" />
       </div>
     </a>
@@ -35,7 +35,7 @@ export const CARDS = {
     <a href={"/EN/Spatial-Design"}>
       <div class="card card-4">
         <p class="card-title">Spatial Design</p>
-        <p class="card-subhead">Chuyên ngành mới</p>
+        <p class="card-subhead">101</p>
         <img src="/EN/static/4-ball.png" class="card-illustration-4" />
       </div>
     </a>
@@ -44,7 +44,7 @@ export const CARDS = {
     <a href={"/EN/Urban-Design"}>
       <div class="card card-5">
         <p class="card-title">Urban Design</p>
-        <p class="card-subhead">Thiết kế đô thị </p>
+        <p class="card-subhead">101</p>
         <img src="/EN/static/5-ball.png" class="card-illustration-5" />
       </div>
     </a>
@@ -54,7 +54,7 @@ export const CARDS = {
   <a href={"/EN/Industrial-Design"}>
     <div class="card card-6">
       <p class="card-title">Industrial Design</p>
-      <p class="card-subhead">Đồ Nội Thất</p>
+      <p class="card-subhead">101</p>
       <img src="/EN/static/6-ball.png" class="card-illustration-6" />
     </div>
   </a>
@@ -64,7 +64,7 @@ export const CARDS = {
   <a href={"/EN/Lighting-Design"}>
     <div class="card card-7">
       <p class="card-title">Lighting Design</p>
-      <p class="card-subhead">ứng dụng</p>
+      <p class="card-subhead">101</p>
       <img src="/EN/static/7-ball.png" class="card-illustration-7" />
     </div>
   </a>
@@ -73,8 +73,8 @@ export const CARDS = {
 "AI-new materials": (
   <a href={"/EN/AI-New Materials"}>
     <div class="card card-8">
-      <p class="card-title">AI & New Materials</p>
-      <p class="card-subhead">ứng dụng</p>
+      <p class="card-title">AI & Software</p>
+      <p class="card-subhead">101</p>
       <img src="/EN/static/8-ball.png" class="card-illustration-8" />
     </div>
   </a>
@@ -90,15 +90,15 @@ export default (() => {
           <p class="landing-header">Welcome to Design-O-Sphere</p>
           <p class="page-subhead">
             Started here•{" "}
-            <a href={"/EN/Giới-Thiệu"} target="_blank">
+            <a href={"/EN"} target="_blank">
+            MainPage
+            </a>{" "}
+            •{" "}
+            <a href="https://designosphere.wiki" target="_blank">
             About
             </a>{" "}
             •{" "}
-            <a href="https://designosphere.wiki/EN" target="_blank">
-            Guide
-            </a>{" "}
-            •{" "}
-            <a href="https://designosphere.wiki/EN" target="_self">
+            <a href="https://designosphere.wiki/EN/index" target="_self">
             Contact
             </a>{" "}
             •{" "}

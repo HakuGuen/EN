@@ -1,17 +1,21 @@
 ---
-title: '"Intersecting Paths: A Shared History of Architect and Interior Design"'
+title: '"Recommended Books: Industrial Design"'
 tags:
-  - Architecture
-  - "#InteriorDesign"
-  - "#SpatialDesign"
-  - "#Landscaping"
   - DigitalGarden
   - LearningOnline
   - LibraryforArch
+  - IndustrialDesign
+  - ProductDesign
+  - Innovative-Design-Learning
+  - IndustrialDesignBooks
+aliases:
+  - "Recommended Books: Industrial Design"
 ---
->[!seealso] [[Giới Thiệu|Read this page in Vietnamese]]
-
-This digital platform serves as a comprehensive guide and database for everyone from professionals to enthusiasts in the realms of interior design, architecture, and landscaping. It embodies a [Zettelkasten](content_en/Zettelkasten%20for%20Architects.md)-like approach to knowledge management, where interconnected notes and ideas form a dynamic and ever-evolving library of spatial design.
-
+# 10 BOOKS
 ---
+This collection of books provides a comprehensive look into the world of industrial design from multiple perspectives. Whether you're a seasoned professional seeking to expand your knowledge base or a layperson interested in the stories behind everyday objects, these books offer valuable insights, inspiration, and understanding of the design process, its challenges, and its profound impact on our lives and the environment.
+
+Read more about Industrial Design in [An Outline](obsidian://open?vault=MyVault&file=content_en%2FIndustrial%20Design%2FAn%20Outline)
+
+
 [Mainpage](Intro)

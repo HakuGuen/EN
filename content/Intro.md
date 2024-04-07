@@ -9,7 +9,7 @@ tags:
   - LearningOnline
   - LibraryforArch
 ---
->[!seealso] [[Giới Thiệu|Read this page in Vietnamese]]
+>[!seealso] [[Gioi-Thieu|Read this page in Vietnamese]]
 
 This digital platform serves as a comprehensive guide and database for everyone from professionals to enthusiasts in the realms of interior design, architecture, and landscaping. It embodies a [Zettelkasten](content_en/Zettelkasten%20for%20Architects.md)-like approach to knowledge management, where interconnected notes and ideas form a dynamic and ever-evolving library of [[content_en/Spatial Design/Spatial Design]].
 
@@ -21,7 +21,7 @@ Designosphere is structured around various elements and relationships, contribut
 
 - **The Practice of Design**: This encompasses [landscaping](/content_en/Landscape Design), [architecture](/content_en/Archtecture Design), [interior design](/content_en/Interior Design), [interior styling/decor](/content_en/Interior Styling/Decor), [[content_en/Spatial Design/Spatial Design]], [lighting design](/content_en/Lighting Design), industrial design, conceptualizing and visualizing, and event decor.
     
-- **Foundation of the Practice**: An exploration of [[content_en/Architecture/History]] and [[content_vn/Kien Truc/Triet Hoc]]
+- **Foundation of the Practice**: An exploration of [[content_en/Architecture/History]] and [[content_vn/Kien-Truc/Triet Hoc]]
     
 - **Purpose and Usage**: Categories such as [commercial](/content_en/Commercial Design), [residential](/content_en/Residential Design), [hospitality](/content_en/Hospitality Design), and [events](/content_en/Event Design) are covered.
     

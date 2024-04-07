@@ -73,7 +73,7 @@ export const CARDS = {
 "Material-design": (
   <a href={"/EN/Material-Design"}>
     <div class="card card-8">
-      <p class="card-title">AI & Software</p>
+      <p class="card-title">Materials in Design</p>
       <p class="card-subhead">101</p>
       <img src="/EN/static/8-ball.png" class="card-illustration-8" />
     </div>
@@ -90,11 +90,11 @@ export default (() => {
           <p class="landing-header">Welcome to Design-O-Sphere</p>
           <p class="page-subhead">
             Started here•{" "}
-            <a href={"/EN"} target="_blank">
+            <a href="https://designosphere.wiki" target="_blank">
             Main Page
             </a>{" "}
             •{" "}
-            <a href="https://designosphere.wiki" target="_blank">
+            <a href="https://designosphere.wiki/EN/Intro" target="_blank">
             About
             </a>{" "}
             •{" "}

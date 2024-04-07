@@ -5,9 +5,9 @@ import landingStyle from "./styles/Landing.scss"
 export const TOTAL_CARDS = 8
 export const CARDS = {
   "Architecture": (
-    <a href={"/EN/Architecutre/An-Outline"}>
+    <a href={"/EN/Architecture/An-Outline"}>
       <div class="card card-1">
-        <p class="card-title">Archietcture</p>
+        <p class="card-title">Architecture</p>
         <p class="card-subhead">101</p>
         <img src="/EN/static/1-ball.png" class="card-illustration-1" />
       </div>

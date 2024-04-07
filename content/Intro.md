@@ -21,7 +21,7 @@ Designosphere is structured around various elements and relationships, contribut
 
 - **The Practice of Design**: This encompasses [landscaping](/content_en/Landscape Design), [architecture](/content_en/Archtecture Design), [interior design](/content_en/Interior Design), [interior styling/decor](/content_en/Interior Styling/Decor), [[content_en/Spatial Design/Spatial Design]], [lighting design](/content_en/Lighting Design), industrial design, conceptualizing and visualizing, and event decor.
     
-- **Foundation of the Practice**: An exploration of [[content_en/Architecture/History]] and [[content_vn/Kien-Truc/Triet Hoc]]
+- **Foundation of the Practice**: An exploration of [[History Of Architecture]] and [[content_vn/Kien-Truc/Triet Hoc]]
     
 - **Purpose and Usage**: Categories such as [commercial](/content_en/Commercial Design), [residential](/content_en/Residential Design), [hospitality](/content_en/Hospitality Design), and [events](/content_en/Event Design) are covered.
     

@@ -14,7 +14,7 @@ Here lies a guide through architecture's realms, from ancient stones to future d
 #### [[The Practice]]
 - Definition and overview
 - Architecture as an art and a science
-#### [[content_en/Architecture/History|History Of Architecture]]
+#### [[History Of Architecture|History Of Architecture]]
 - Ancient to medieval architecture
 - Renaissance to modernism
 - Postmodernism to contemporary architecture
@@ -66,7 +66,7 @@ Here lies a guide through architecture's realms, from ancient stones to future d
 
 ## The Future of Architecture
 
-#### [[content_en/Architecture/Trends|Trends]]
+#### [[Architecture Trends]]
 - Digital and biomimetic architecture
 - The role of architecture in tackling global challenges
 
@@ -78,6 +78,6 @@ Here lies a guide through architecture's realms, from ancient stones to future d
 - Reflections on the enduring power of architecture
 - The ongoing dialogue between past and future in architectural design
 
-## [[content_en/Architecture/Glossary|Glossary]]
+## [[Glossary Of Architectural Terms|Glossary Of Architectural Terms]]
 
-## [[content_en/Architecture/Books|Books]]
+## [[Architectural Books|Architectural Books]]

@@ -1,5 +1,5 @@
 ---
-title: '"Design-o-Sphere: An Over View of Spatial Design"'
+title: '"Design-o-Sphere: An Over View of Architecture & Design"'
 tags:
   - Architectureindex
   - "#InteriorDesign"

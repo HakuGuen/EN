@@ -5,7 +5,7 @@ import landingStyle from "./styles/Landing.scss"
 export const TOTAL_CARDS = 8
 export const CARDS = {
   "Architecture": (
-    <a href={"/EN/Intro"}>
+    <a href={"/EN/Architecutre/An-Outline"}>
       <div class="card card-1">
         <p class="card-title">Archietcture</p>
         <p class="card-subhead">101</p>
@@ -14,7 +14,7 @@ export const CARDS = {
     </a>
   ),
   "Landscape-design": (
-    <a href={"/EN/Landscape-Design"}>
+    <a href={"/EN/Landscape-Design/An-Outline"}>
       <div class="card card-2">
         <p class="card-title">Landscape Design</p>
         <p class="card-subhead">101</p>
@@ -23,7 +23,7 @@ export const CARDS = {
     </a>
   ),
   "Interior-design": (
-    <a href={"/EN/Interior-Design"}>
+    <a href={"/EN/Interior-Design/An-Outline"}>
       <div class="card card-3">
         <p class="card-title">Interior Design</p>
         <p class="card-subhead">101</p>
@@ -32,7 +32,7 @@ export const CARDS = {
     </a>
   ),
   "Spatial-design": (
-    <a href={"/EN/Spatial-Design"}>
+    <a href={"/EN/Spatial-Design/An-Outline"}>
       <div class="card card-4">
         <p class="card-title">Spatial Design</p>
         <p class="card-subhead">101</p>
@@ -41,7 +41,7 @@ export const CARDS = {
     </a>
   ),
   "Urban-design": (
-    <a href={"/EN/Urban-Design"}>
+    <a href={"/EN/Urban-Design/An-Outline"}>
       <div class="card card-5">
         <p class="card-title">Urban Design</p>
         <p class="card-subhead">101</p>
@@ -51,7 +51,7 @@ export const CARDS = {
   ),
 
 "Industrial-design": (
-  <a href={"/EN/Industrial-Design"}>
+  <a href={"/EN/Industrial-Design/An-Outline"}>
     <div class="card card-6">
       <p class="card-title">Industrial Design</p>
       <p class="card-subhead">101</p>
@@ -61,7 +61,7 @@ export const CARDS = {
 ),
 
 "Lighting-design": (
-  <a href={"/EN/Lighting-Design"}>
+  <a href={"/EN/Lighting-Design/An-Outline"}>
     <div class="card card-7">
       <p class="card-title">Lighting Design</p>
       <p class="card-subhead">101</p>
@@ -70,8 +70,8 @@ export const CARDS = {
   </a>
 ),
 
-"AI-new materials": (
-  <a href={"/EN/AI-New Materials"}>
+"Material-design": (
+  <a href={"/EN/Material-Design"}>
     <div class="card card-8">
       <p class="card-title">AI & Software</p>
       <p class="card-subhead">101</p>
@@ -91,14 +91,14 @@ export default (() => {
           <p class="page-subhead">
             Started here•{" "}
             <a href={"/EN"} target="_blank">
-            MainPage
+            Main Page
             </a>{" "}
             •{" "}
             <a href="https://designosphere.wiki" target="_blank">
             About
             </a>{" "}
             •{" "}
-            <a href="https://designosphere.wiki/EN/index" target="_self">
+            <a href="https://designosphere.wiki/EN/Intro" target="_self">
             Contact
             </a>{" "}
             •{" "}

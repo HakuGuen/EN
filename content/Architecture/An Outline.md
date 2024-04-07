@@ -1,22 +1,20 @@
 ---
-title: '"Table Of Content: Exploring the World of Architecture"'
+title: "Table Of Content: Exploring the World of Architecture"
 tags:
   - Architecture
   - DigitalGarden
   - LearningOnline
   - LibraryforArch
 ---
-# Exploring the World of Architecture
----
 
 Here lies a guide through architecture's realms, from ancient stones to future dreams. Crafted to enlighten without overwhelming, it offers a succinct journey through time, balancing depth with clarity.
 
 ## Foundations of Architecture
 
-####  [What is Architecture?](obsidian://open?vault=MyVault&file=content_en%2FArchitecture%2FThe%20Practice)
+### [[The Practice]]
 - Definition and overview
 - Architecture as an art and a science
-#### [History of Architecture](obsidian://open?vault=MyVault&file=content_en%2FArchitecture%2FHistory)
+#### [[content_en/Architecture/History|History Of Architecture]]
 - Ancient to medieval architecture
 - Renaissance to modernism
 - Postmodernism to contemporary architecture

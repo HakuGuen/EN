@@ -11,7 +11,7 @@ tags:
 ---
 >[!seealso] [[Gioi-Thieu|Read this page in Vietnamese]]
 
-This digital platform serves as a comprehensive guide and database for everyone from professionals to enthusiasts in the realms of interior design, architecture, and landscaping. It embodies a [Zettelkasten](content_en/Zettelkasten%20for%20Architects.md)-like approach to knowledge management, where interconnected notes and ideas form a dynamic and ever-evolving library of [[content_en/Spatial Design/Spatial Design]].
+This digital platform serves as a comprehensive guide and database for everyone from professionals to enthusiasts in the realms of interior design, architecture, and landscaping. It embodies a [[Zettelkasten]]-like approach to knowledge management, where interconnected notes and ideas form a dynamic and ever-evolving library of [[content_en/Spatial Design/An Outline]].
 
 ---
 
